@@ -3,7 +3,7 @@
 
 **yassinmohamed111/yassinmohamed111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 I’m currently learning Data Visualization and Web Scraping
+- 🌱 I’m currently learning Data Visualization and SQL
 - 👯 I’m looking to collaborate on Data Analysis Apps
 - 📫 How to reach me: yassinmohamed022@gmail.com
 ## 🌐 Socials:
