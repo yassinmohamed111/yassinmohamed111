@@ -12,7 +12,7 @@
 
 
 ## 🌐 problem solving accounts:
-[![Instagram](https://www.codewars.com/users/yassinmohamed111/badges/large)]((https://www.codewars.com/users/yassinmohamed111)) 
+[![Instagram](https://www.codewars.com/users/yassinmohamed111/badges/large)]((https://www.codewars.com/users/yassinmohamed111)) **https://www.codewars.com/users/yassinmohamed111**
 
 
 
